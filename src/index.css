@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    font-family: 'nunito', sans-serif;
+    background-image: url('./assets/52714-programacion.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1, h2, h3, p, ul {
+    margin-top: 0;
+    margin-bottom: 1;
+    
+}
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+button {
+    display: inline-block;
+    border: 0;
+    color: inherit;
+    cursor: pointer;
+}
+input {
+    outline: 0;
+    color: inherit;
+    font-family: inherit;
+}
